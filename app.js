@@ -7,6 +7,9 @@ let loadInterval;
 
 
 
+
+
+
 function loader(element) {
   element.textContent = '';
 
